@@ -1,0 +1,5 @@
+Somos dos las integrantes: Camila Zárate, y María Florencia Abraham Rodriguez. Grupo F
+Nuestro proyecto es hacer un juego con phyton en el entorno pygame.
+Si bien no tenemos los conocimientos necesarios elegimos hacer un juego de damas por que nos parecio interesante la idea.
+
+ 
